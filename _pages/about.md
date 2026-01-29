@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 I am a third-year Ph.D. student in the School of Computer Science and Technology at Dalian University of Technology, advised by [Prof. Hongfei Lin](https://scholar.google.com/citations?hl=zh-CN&user=kV68br0AAAAJ).
-My research focuses on natural language processing, large language models, and user profiling.
+My research focuses on natural language processing, large language models, user profiling and human-centered AI.
 
 If you are interested in my work or potential collaborations, please contact me via [zhuhh17@gmail.com](mailto:zhuhh17@gmail.com).
 

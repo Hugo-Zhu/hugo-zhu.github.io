@@ -17,16 +17,16 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a third-year Ph.D. student in the School of Computer Science and Technology at Dalian University of Technology, advised by Prof. Hongfei Lin. 
+I am a third-year Ph.D. student in the School of Computer Science and Technology at Dalian University of Technology, advised by [Prof. Hongfei Lin](https://scholar.google.com/citations?hl=zh-CN&user=kV68br0AAAAJ).
 My research focuses on natural language processing, large language models, and user profiling.
 
-If you are interested in my work, please contact me via [zhuhh17@gmail.com](mailto:zhuhh17@gmail.com).
+If you are interested in my work or potential collaborations, please contact me via [zhuhh17@gmail.com](mailto:zhuhh17@gmail.com).
 
 
 <!-- # 🔥 News
 - *2025.05*: &nbsp;🎉🎉 Our two papers were accepted by ACL 2025 (2 findings)!  -->
 
-# 📝 Publications 
+## 📝 Publications
 
 <!-- for example -->
 <!-- - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ACL 2024</span><span style="color:red">(Oral)</span> [GenTranslate: Large Language Models are Generative Multilingual Speech and Machine Translators](https://aclanthology.org/2024.acl-long.5.pdf), **<u>Yuchen Hu</u>**, Chen Chen, Chao-Han Huck Yang, Ruizhe Li, Dong Zhang, Zhehuai Chen, Eng Siong Chng. [[Code]](https://github.com/YUCHEN005/GenTranslate) [[Data]](https://huggingface.co/datasets/PeacefulData/HypoTranslate) -->
@@ -36,17 +36,19 @@ If you are interested in my work, please contact me via [zhuhh17@gmail.com](mail
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">TASLP</span> [Enhancing Textual Personality Detection Toward Social Media: Integrating Long-Term and Short-Term Perspectives](https://ieeexplore.ieee.org/abstract/document/11206427), **Haohao Zhu**, Xiaokun Zhang, Junyu Lu, Youlin Wu, Zewen Bai, Changrong Min, Liang Yang, Bo Xu, Dongyu Zhang, Hongfei Lin.
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">NAACL 2025 main</span> [Commonality and Individuality! Integrating Humor Commonality with Speaker Individuality for Humor Recognition](https://aclanthology.org/2025.naacl-long.385/), **Haohao Zhu**, Junyu Lu, Zeyuan Zen, Zewen Bai, Xiaokun Zhang, Liang Yang, Hongfei Lin. [[Repo]](https://github.com/Hugo-Zhu/CIHR)
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">NLPCC 2024</span> [Integrating multi-view analysis: Multi-view mixture-of-expert for textual personality detection](https://arxiv.org/abs/2408.08551), **Haohao Zhu**, Xiaokun Zhang, Junyu Lu, Liang Yang, Hongfei Lin. [[Repo]](https://github.com/Hugo-Zhu/MvP)
-- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">Journal of Chinese Information Processing (中文信息学报)</span> 基于特质相关性增强网络的人格检测模型, **Haohao Zhu**, Dongyu Zhang, Xiaokun Zhang, Hongfei Lin, Liang Yang.
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">JCIP (中文信息学报)</span> 基于特质相关性增强网络的人格检测模型, **Haohao Zhu**, Dongyu Zhang, Xiaokun Zhang, Hongfei Lin, Liang Yang.
 
 ## Other Publications
 
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ACL 2025 findings</span> [STATE ToxiCN: A Benchmark for Span-level Target-Aware Toxicity Extraction in Chinese Hate Speech Detection](https://arxiv.org/html/2501.15451v2), Zewen Bai, Shengdi Yin, Junyu Lu, Jingjie Zeng, **Haohao Zhu**, Yuanyuan Sun, Liang Yang, Hongfei Lin. [[Repo]](https://github.com/shenmeyemeifashengguo/STATE-ToxiCN)
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">SIGIR 2025</span> Is Having Rationales Enough? Rethinking Knowledge Enhancement for Multimodal Hateful Meme Detection, Junyu Lu, Bo Xu, Xiaokun Zhang, **Haohao Zhu**, Kaichun Wang, Liang Yang, Hongfei Lin.
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ISBRA 2025</span> Dynamic Knowledge-Aware LLM for Adverse Drug Reaction Entity Recognition,  Yunzhi Qiu Bo Zhangj, Haohao Zhuj, Changrong Min, Haifeng Liu, Tongxuan Zhang,, Liang Yang, Hongfei Lin.
 
 <!-- **Note**: The full list of publications is in [Google Scholar](https://scholar.google.com/citations?user=qL6aVHgAAAAJ). -->
 
 # 📖 Educations
-- *2023.09 - now*, Ph.D. student, School of Computer Science and Technology, [Dalian University of Technology](https://www.dlut.edu.cn).
-- *2021.09 - 2023.06*, M.Sc. candidate, School of Computer Science and Technology, [Dalian University of Technology](https://www.dlut.edu.cn).
+- *2023.09 - NOW*, Ph.D. student, School of Computer Science and Technology, [Dalian University of Technology](https://www.dlut.edu.cn).
+- *2021.09 - 2023.06*, M.Sc, School of Computer Science and Technology, [Dalian University of Technology](https://www.dlut.edu.cn).
 - *2017.09 - 2021.06*, B.Sc, School of Information Science and Engineering, [Lanzhou University](https://www.lzu.edu.cn).
 
 <!-- # 💻 Internships
@@ -68,7 +70,7 @@ If you are interested in my work, please contact me via [zhuhh17@gmail.com](mail
 
 # 🎖 Honors and Awards
 
-## Other Awards
+## Awards
 - Doctoral Excellence Scholarship. Dalian University of Technology. *2025*.
 - National Scholarship. The Ministry of Education of the People's Republic of China. *2024*.
 - Excellent Postgraduate. Dalian University of Technology. *2024*.
@@ -78,5 +80,3 @@ If you are interested in my work, please contact me via [zhuhh17@gmail.com](mail
 
 <!-- # Visitors -->
 <!-- <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=n&d=0ZVhiD0S7RJSzhyvpjJf3J71bQ62KTj9lerWE1VBMsY"></script> -->
-
-<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=500&t=n&d=0ZVhiD0S7RJSzhyvpjJf3J71bQ62KTj9lerWE1VBMsY"></script>

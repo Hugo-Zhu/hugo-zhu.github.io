@@ -17,42 +17,66 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am a third-year Ph.D. student in the School of Computer Science and Technology at Dalian University of Technology, advised by Prof. Hongfei Lin. 
+My research focuses on natural language processing, large language models, and user profiling.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+If you are interested in my work, please contact me via [zhuhh17@gmail.com](mailto:zhuhh17@gmail.com).
 
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+<!-- # 🔥 News
+- *2025.05*: &nbsp;🎉🎉 Our two papers were accepted by ACL 2025 (2 findings)!  -->
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<!-- for example -->
+<!-- - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ACL 2024</span><span style="color:red">(Oral)</span> [GenTranslate: Large Language Models are Generative Multilingual Speech and Machine Translators](https://aclanthology.org/2024.acl-long.5.pdf), **<u>Yuchen Hu</u>**, Chen Chen, Chao-Han Huck Yang, Ruizhe Li, Dong Zhang, Zhehuai Chen, Eng Siong Chng. [[Code]](https://github.com/YUCHEN005/GenTranslate) [[Data]](https://huggingface.co/datasets/PeacefulData/HypoTranslate) -->
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+## Main Publications
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">TASLP</span> [Enhancing Textual Personality Detection Toward Social Media: Integrating Long-Term and Short-Term Perspectives](https://ieeexplore.ieee.org/abstract/document/11206427), **Haohao Zhu**, Xiaokun Zhang, Junyu Lu, Youlin Wu, Zewen Bai, Changrong Min, Liang Yang, Bo Xu, Dongyu Zhang, Hongfei Lin.
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">NAACL 2025 main</span> [Commonality and Individuality! Integrating Humor Commonality with Speaker Individuality for Humor Recognition](https://aclanthology.org/2025.naacl-long.385/), **Haohao Zhu**, Junyu Lu, Zeyuan Zen, Zewen Bai, Xiaokun Zhang, Liang Yang, Hongfei Lin. [[Repo]](https://github.com/Hugo-Zhu/CIHR)
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">NLPCC 2024</span> [Integrating multi-view analysis: Multi-view mixture-of-expert for textual personality detection](https://arxiv.org/abs/2408.08551), **Haohao Zhu**, Xiaokun Zhang, Junyu Lu, Liang Yang, Hongfei Lin. [[Repo]](https://github.com/Hugo-Zhu/MvP)
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">Journal of Chinese Information Processing (中文信息学报)</span> 基于特质相关性增强网络的人格检测模型, **Haohao Zhu**, Dongyu Zhang, Xiaokun Zhang, Hongfei Lin, Liang Yang.
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
+## Other Publications
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ACL 2025 findings</span> [STATE ToxiCN: A Benchmark for Span-level Target-Aware Toxicity Extraction in Chinese Hate Speech Detection](https://arxiv.org/html/2501.15451v2), Zewen Bai, Shengdi Yin, Junyu Lu, Jingjie Zeng, **Haohao Zhu**, Yuanyuan Sun, Liang Yang, Hongfei Lin. [[Repo]](https://github.com/shenmeyemeifashengguo/STATE-ToxiCN)
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+<!-- **Note**: The full list of publications is in [Google Scholar](https://scholar.google.com/citations?user=qL6aVHgAAAAJ). -->
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.09 - now*, Ph.D. student, School of Computer Science and Technology, [Dalian University of Technology](https://www.dlut.edu.cn).
+- *2021.09 - 2023.06*, M.Sc. candidate, School of Computer Science and Technology, [Dalian University of Technology](https://www.dlut.edu.cn).
+- *2017.09 - 2021.06*, B.Sc, School of Information Science and Engineering, [Lanzhou University](https://www.lzu.edu.cn).
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+<!-- # 💻 Internships
+- *2025.05 - Now*, [Tencent Hunyuan](https://www.tencent.com/), Beijing, China. Supervisor: Dr. [Deyi Ji](https://scholar.google.com/citations?hl=zh-CN&user=r9-7am4AAAAJ)
+- *2022.07 - 2022.12*, [China Mobile Research Institution](http://cmri.chinamobile.com/), Beijing, China. Supervisor: Dr. [Xue Han](https://scholar.google.com/citations?hl=zh-CN&user=Rg4xqCgAAAAJ) -->
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+<!-- # 💬 Invited Talks
+- *2024.11*, NeurIPS2024 Pre-Presentation Meeting. AI Time. [[news](https://mp.weixin.qq.com/s/pI64JxiMY_B1gQYp9h2jPw)][[video](https://www.bilibili.com/video/BV19hUUYdE2k)]
+- *2024.11*, **Academic Forum for Doctoral Students in 2024**. School of Computer Science and Technology, Dalian University of Technology. [[news](https://mp.weixin.qq.com/s/b_Pa7PUG_dxToUaF3EbgAQ)] -->
+
+<!-- # 🧑‍🔬 Services
+## Organizer  
+- [CCL25-Eval Task 10: Fine-grained Chinese Hate Speech Detection Evaluation.](https://tianchi.aliyun.com/competition/entrance/532298)
+ 
+## Reviewer
+- Conference PC Member: ACL ARR (23 - Now), COLING (24), BIBM (24), ICASSP (25), NeurIPS (25)
+- Journal Reviewer: TASLP, TALLIP -->
+
+
+# 🎖 Honors and Awards
+
+## Other Awards
+- Doctoral Excellence Scholarship. Dalian University of Technology. *2025*.
+- National Scholarship. The Ministry of Education of the People's Republic of China. *2024*.
+- Excellent Postgraduate. Dalian University of Technology. *2024*.
+
+## Technique Evaluation
+- 2024.07, CCAC2024 Task3: Chinese sentiment analysis based on user portraits, **The 2nd Place** in 30+ Teams. [[Repo](https://github.com/Hugo-Zhu/DUTIR-IN-CCAC2024-TASK3)]
+
+<!-- # Visitors -->
+<!-- <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=n&d=0ZVhiD0S7RJSzhyvpjJf3J71bQ62KTj9lerWE1VBMsY"></script> -->
+
+<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=500&t=n&d=0ZVhiD0S7RJSzhyvpjJf3J71bQ62KTj9lerWE1VBMsY"></script>

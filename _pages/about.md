@@ -41,7 +41,7 @@ If you are interested in my work or potential collaborations, please contact me 
 
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">SIGIR 2025</span> Is Having Rationales Enough? Rethinking Knowledge Enhancement for Multimodal Hateful Meme Detection, Junyu Lu, Bo Xu, Xiaokun Zhang, **Haohao Zhu**, Kaichun Wang, Liang Yang, Hongfei Lin.
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ACL 2025 findings</span> [STATE ToxiCN: A Benchmark for Span-level Target-Aware Toxicity Extraction in Chinese Hate Speech Detection](https://aclanthology.org/2025.findings-acl.532/), Zewen Bai, Shengdi Yin, Junyu Lu, Jingjie Zeng, **Haohao Zhu**, Yuanyuan Sun, Liang Yang, Hongfei Lin. [[Repo]](https://github.com/shenmeyemeifashengguo/STATE-ToxiCN)
-- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ISBRA 2025</span> Dynamic Knowledge-Aware LLM for Adverse Drug Reaction Entity Recognition,  Yunzhi Qiu, Bo Zhang, Haohao Zhu, Changrong Min, Haifeng Liu, Tongxuan Zhang,, Liang Yang, Hongfei Lin.
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ISBRA 2025</span> Dynamic Knowledge-Aware LLM for Adverse Drug Reaction Entity Recognition,  Yunzhi Qiu, Bo Zhang, **Haohao Zhu**, Changrong Min, Haifeng Liu, Tongxuan Zhang,, Liang Yang, Hongfei Lin.
 
 <!-- **Note**: The full list of publications is in [Google Scholar](https://scholar.google.com/citations?user=qL6aVHgAAAAJ). -->
 
